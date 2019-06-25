@@ -6,7 +6,7 @@
 
 > Insert here a brief description of what your repository contains. Insert also links to the last release, the official page, the extended documentation, and other useful external resources.
 
-## What is the PDND (ex DAF)?
+## What is the PDND (previously DAF)?
 
 PDND stays for "Piattaforma Digitale Nazionale Dati" (the Italian Digital Data Platform), previously known as Data & Analytics Framework (DAF).
 
