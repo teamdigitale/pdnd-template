@@ -43,7 +43,7 @@ This project depends by the following components.
 
 ## How to contribute
 
-Contributions are welcome. Feel free to [open issues](./issues) and submit a [pull request](./pulls) at any time, but please read [our handbook](https://github.com/teamdigitale/daf-handbook) first.
+Contributions are welcome. Feel free to [open issues](../../issues) and submit a [pull request](../../pulls) at any time, but please read [our handbook](https://github.com/teamdigitale/daf-handbook) first.
 
 ## License
 
