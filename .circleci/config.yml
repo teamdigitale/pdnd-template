@@ -9,7 +9,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: teamdigitale/daf-infra-test-env
+      - image: teamdigitale/pdnd-infra-test-env
     steps:
       - checkout
       - run:
